@@ -7,7 +7,7 @@
     "aws-sdk": "^2.117.0",
     "axios": "^0.16.2",
     "lodash": "^4.17.4",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.1",
     "request": "^2.81.0",
     "request-promise": "^4.2.1",
     "serverless-offline": "^3.15.3",
